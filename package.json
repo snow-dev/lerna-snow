@@ -1,0 +1,14 @@
+{
+  "name": "@snow-dev/root-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "@snow-dev",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "workspaces":[
+    "libraries/*",
+    "packages/*"
+  ]
+}

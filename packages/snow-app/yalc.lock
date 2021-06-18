@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "@snow-dev/snow-lib": {
+      "signature": "946e754c9a1d9a3e82dcdb64d32af090",
+      "file": true
+    }
+  }
+}
