@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "1.0.0",
   "individually": true,
   "npmClient": "yarn",
   "useWorkspaces": true,
@@ -9,5 +9,5 @@
   ],
   "publishConfig": {
     "registry": "git@github.com:snow-dev/lerma-example.git"
-    }
+  }
 }

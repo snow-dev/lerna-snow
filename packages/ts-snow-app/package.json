@@ -1,6 +1,6 @@
 {
   "name": "ts-snow-app",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@snow-dev/snow-lib": "file:.yalc/@snow-dev/snow-lib",
